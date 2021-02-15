@@ -1,0 +1,44 @@
+.home-logo {
+  box-sizing: border-box;
+  height: 300px;
+  margin-top: 50px;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.home-title {
+  font-family: "Lexend Mega", sans-serif;
+  margin: 50px 0px;
+  font-size: 4rem;
+}
+
+.home-label {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 2rem;
+}
+
+.home-city {
+  padding: 5px;
+  margin-left: 5px;
+  border-radius: 25px;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 1.5rem;
+}
+
+.home-button {
+  background-color: #ffffff;
+  padding: 10px 20px;
+  font-family: "Lexend Mega", sans-serif;
+  font-size: 1.2rem;
+  border-style: dashed;
+  border-radius: 25px;
+  margin-top: 50px;
+}
+
+.home-button:hover {
+  cursor: pointer;
+}

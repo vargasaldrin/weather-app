@@ -1,0 +1,19 @@
+.card-container {
+  padding: 50px 20px;
+  border: 3px solid black;
+  border-radius: 25px;
+  box-sizing: border-box;
+  margin-top: 30px;
+  width: 225px;
+}
+
+.card-day {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.card-weather {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 1rem;
+}

@@ -1,0 +1,18 @@
+.results-container {
+  height: 100vh;
+}
+
+.results-today {
+  font-family: "Lexend Mega", sans-serif;
+  font-size: 1.3rem;
+}
+
+.results-day {
+  font-size: 2rem;
+}
+
+.results-week {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

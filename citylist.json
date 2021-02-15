@@ -1,0 +1,94 @@
+{
+  list: [
+    {
+      "id": 1729564,
+      "name": "Bacolod City",
+      "state": "",
+      "country": "PH",
+      "coord": {
+          "lon": 122.949997,
+          "lat": 10.66667
+      }
+    },
+    {
+      "id": 1728929,
+      "name": "Baguio City",
+      "state": "",
+      "country": "PH",
+      "coord": {
+          "lon": 120.599998,
+          "lat": 16.41667
+      }
+    },
+    {
+      "id": 6569685,
+      "name": "Cagayan De Oro City",
+      "state": "",
+      "country": "PH",
+      "coord": {
+          "lon": 124.688889,
+          "lat": 8.46917
+      }
+    },
+    {
+      "id": 1717512,
+      "name": "Cebu City",
+      "state": "",
+      "country": "PH",
+      "coord": {
+          "lon": 123.890709,
+          "lat": 10.31672
+      }
+    },
+    {
+      "id": 7521309,
+      "name": "Davao",
+      "state": "",
+      "country": "PH",
+      "coord": {
+          "lon": 125.708481,
+          "lat": 6.81304
+      }
+    },
+    {
+      "id": 1707174,
+      "name": "Las Piñas",
+      "state": "",
+      "country": "PH",
+      "coord": {
+          "lon": 120.98278,
+          "lat": 14.45056
+      }
+    },
+    {
+      "id": 1684495,
+      "name": "Tagbilaran City",
+      "state": "",
+      "country": "PH",
+      "coord": {
+          "lon": 123.849998,
+          "lat": 9.65
+      }
+    },
+    {
+      "id": 1679983,
+      "name": "City of Vigan",
+      "state": "",
+      "country": "PH",
+      "coord": {
+          "lon": 120.383331,
+          "lat": 17.566669
+      }
+    },
+    {
+      "id": 1679430,
+      "name": "Zamboanga City",
+      "state": "",
+      "country": "PH",
+      "coord": {
+          "lon": 122.069611,
+          "lat": 6.91348
+      }
+    }
+  ]
+}
